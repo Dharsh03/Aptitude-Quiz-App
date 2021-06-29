@@ -18,5 +18,6 @@ This is a **Complete Quiz App in FLUTTER** using a lot of features such as
 
 And a lot more...
 
-## Getting Started
+## Few Screenshots From The App
+
 
