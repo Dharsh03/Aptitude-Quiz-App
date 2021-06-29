@@ -1,16 +1,21 @@
-# quiz
+# Aptitude Quiz
 
-A new Flutter project.
+A New Flutter Project.
+This is a Complete Quiz App in FLUTTER using a lot of features such as
+
+Multiple Screens
+
+Timer (30 sec By Default)
+
+Button Color Changes On Click
+
+Result Page
+
+Questions From JSON
+
+Random Questions Genration Added
+
+And a lot more...
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
