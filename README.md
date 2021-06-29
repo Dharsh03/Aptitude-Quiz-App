@@ -20,7 +20,7 @@ And a lot more...
 
 ## Few Screenshots From The App
 
-![The Card Page](./gitimages/cards.png "The Card Page")
+![Splash](./images/Splash.jpg "Splash")
 
 ![A Simple Quiz Page](./gitimages/quizpage.png "A Simple Quiz Page")
 
