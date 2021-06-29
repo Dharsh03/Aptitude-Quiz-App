@@ -22,10 +22,10 @@ And a lot more...
 
 ![Splash](./images/Splash.jpg "Splash Screen")
 
-![A Simple Quiz Page](.images/Splash.jpg "A Simple Quiz Page")
+![A Simple Quiz Page](./images/Splash.jpg "A Simple Quiz Page")
 
-![When A Button Is Clicked](.images/Splash.jpg "When A Button Is Clicked")
+![When A Button Is Clicked](./images/Splash.jpg "When A Button Is Clicked")
 
-![The Result Page](.images/Splash.jpg "The Result Page")
+![The Result Page](./images/Splash.jpg "The Result Page")
 
-![ResultPage](.images/ResultPage.jpg "Result Page")
+![ResultPage](./images/ResultPage.jpg "Result Page")
