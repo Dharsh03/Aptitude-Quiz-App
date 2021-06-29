@@ -20,7 +20,7 @@ And a lot more...
 
 ## Few Screenshots From The App
 
-![Splash](./images/Splash.jpg "Splash")
+![Splash](./images/Splash.jpg "Splash Screen")
 
 ![A Simple Quiz Page](.images/Splash.jpg "A Simple Quiz Page")
 
@@ -28,4 +28,4 @@ And a lot more...
 
 ![The Result Page](.images/Splash.jpg "The Result Page")
 
-![Result Page](.images/ResultPage.jpg "Result Page")
+![ResultPage](.images/ResultPage.jpg "Result Page")
