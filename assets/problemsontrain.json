@@ -1,0 +1,88 @@
+[
+    {
+        "0": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+        "1": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is",
+        "2": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is",
+        "3": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is",
+        "4": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+        "5": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+        "6": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is",
+        "7": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
+        "8": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is",
+        "9": "A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?"
+    },
+    {
+        "0": {
+            "a": "120 metres",
+            "b": "180 metres",
+            "c": "324 metres",
+            "d": "150 metres"
+        },
+        "1": {
+            "a": "45 km/hr",
+            "b": "50 km/hr",
+            "c": "54 km/hr",
+            "d": "55 km/hr"
+        },
+        "2": {
+            "a": "200 m",
+            "b": "225 m",
+            "c": "245 m",
+            "d": "250 m"
+        },
+        "3": {
+            "a": "1 : 3",
+            "b": "3 : 2",
+            "c": "3 : 4",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "120 m",
+            "b": "240 m",
+            "c": "300 m",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "65 sec",
+            "b": "89 sec",
+            "c": "100 sec",
+            "d": "150 sec"
+        },
+        "6": {
+            "a": "50 m",
+            "b": "72 m",
+            "c": "80 m",
+            "d": "82 m"
+        },
+        "7": {
+            "a": "40 sec",
+            "b": "42 sec",
+            "c": "45 sec",
+            "d": "48 sec"
+        },
+        "8": {
+            "a": "36",
+            "b": "45",
+            "c": "48",
+            "d": "49"
+        },
+        "9": {
+            "a": "3.6 sec",
+            "b": "18 sec",
+            "c": "36 sec",
+            "d": "72 sec"
+        }
+    },
+    {
+        "0": "150 metres",
+        "1": "50 km/hr",
+        "2": "245 m",
+        "3": "3 : 2",
+        "4": "240 m",
+        "5": "89 sec",
+        "6": "50 m",
+        "7": "40 sec",
+        "8": "48",
+        "9": "36 sec"
+    }
+]

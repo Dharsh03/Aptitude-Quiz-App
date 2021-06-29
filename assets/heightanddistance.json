@@ -1,0 +1,88 @@
+[
+    {
+        "0": "Two ships are sailing in the sea on the two sides of a lighthouse. The angle of elevation of the top of the lighthouse is observed from the ships are 30° and 45° respectively. If the lighthouse is 100 m high, the distance between the two ships is",
+        "1": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30° with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60°. What is the distance between the base of the tower and the point P?",
+        "2": "The angle of elevation of a ladder leaning against a wall is 60° and the foot of the ladder is 4.6 m away from the wall. The length of the ladder is",
+        "3": "An observer 1.6 m tall is 20√3 away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower is",
+        "4": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is",
+        "5": "The angle of elevation of the sun, when the length of the shadow of a tree √3 times the height of the tree, is",
+        "6": "A man is standing on the deck of a ship, which is 10m above water level. He observes the angle of elevation of the top of a light house as 600 and the angle of depression of the base of lighthouse as 300. Find the height of the light house.",
+        "7": "A person standing on the bank of a river observes that the angle of elevation of the top of a tree on the opposite bank is 450. When he moves 20m away from the bank, he finds the angle of elevation to be 300. Find the height of the tree.",
+        "8": "From the top of a building 60m high, the angle of elevation and depression of the top and the foot of another building are α and β respectively. Find the height of the second building.",
+        "9": "From the top of a tower 75m high, the angles of depression of the top and bottom of a pole standing on the same plane as the tower are observed to be 300 and 450 respectively. Find the height of the pole."
+    },
+    {   
+        "0": {
+            "a": "173 m",
+            "b": "200 m",
+            "c": "273 m",
+            "d": "300 m"
+        },
+        "1": {
+            "a": "4√3 units",
+            "b": "8 units",
+            "c": "12 units",
+            "d": "Data inadequate"
+        },
+        "2": {
+            "a": "2.3 m",
+            "b": "4.6 m",
+            "c": "7.8 m",
+            "d": "9.2 m"
+        },
+        "3": {
+            "a": "21.6 m",
+            "b": "23.2 m",
+            "c": "24.72 m",
+            "d": "None of these"
+        },
+        "4": {
+            "a": "149 m",
+            "b": "156 m",
+            "c": "173 m",
+            "d": "200 m"
+        },
+        "5": {
+            "a": "30°",
+            "b": "45°",
+            "c": "60°",
+            "d": "90°"
+        },
+        "6": {
+            "a": "30 m",
+            "b": "40 m",
+            "c": "45 m",
+            "d": "38 m"
+        },
+        "7": {
+            "a": "10(√3 + 1) m",
+            "b": "15√3 m",
+            "c": "200(√3 + 1) m",
+            "d": "10(√3 - 1) m"
+        },
+        "8": {
+            "a": "60(1+ tan α tanβ)",
+            "b": "60(1+ cot α tanβ)",
+            "c": "60(1+ tan α cotβ)",
+            "d": "60(1- tan αcotβ)"
+        },
+        "9": {
+            "a": "30.4 m",
+            "b": "35.9 m",
+            "c": "28.6 m",
+            "d": "31.7 m"
+        }
+    },
+    {   
+        "0": "273 m",
+        "1": "Data inadequate",
+        "2": "9.2 m",
+        "3": "21.6 m",
+        "4": "173 m",
+        "5": "30°",
+        "6": "40 m",
+        "7": "10(√3 + 1) m",
+        "8": "60(1+ tan α cotβ)",
+        "9": "31.7 m"
+    }
+]

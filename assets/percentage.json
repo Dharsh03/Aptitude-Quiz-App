@@ -1,0 +1,88 @@
+[
+    {
+        "0": "A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he make by running between the wickets?",
+        "1": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+        "2": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+        "3": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+        "4": "If A = x% of y and B = y% of x, then which of the following is true?",
+        "5": "If 20% of a = b, then b% of 20 is the same as",
+        "6": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is 2/3 of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+        "7": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
+        "8": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+        "9": "In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was"
+    },
+    {   
+        "0": {
+            "a": "45%",
+            "b": "45 5/11%",
+            "c": "54 6/11%",
+            "d": "55%"
+        },
+        "1": {
+            "a": "39, 30",
+            "b": "41, 32",
+            "c": "42, 33",
+            "d": "43, 34"
+        },
+        "2": {
+            "a": "588 apples",
+            "b": "600 apples",
+            "c": "672 apples",
+            "d": "700 apples"
+        },
+        "3": {
+            "a": "1",
+            "b": "14",
+            "c": "20",
+            "d": "21"
+        },
+        "4": {
+            "a": "A is greater than B",
+            "b": "Relationship between A and B cannot be determined.",
+            "c": "If x is smaller than y, then A is greater than B.",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "4% of a",
+            "b": "5% of a",
+            "c": "20% of a",
+            "d": "None of these"
+        },
+        "6": {
+            "a": "80",
+            "b": "120",
+            "c": "150",
+            "d": "100"
+        },
+        "7": {
+            "a": "2 : 3",
+            "b": "1 : 1",
+            "c": "3 : 4",
+            "d": "4 : 3"
+        },
+        "8": {
+            "a": "34%",
+            "b": "44%",
+            "c": "54%",
+            "d": "64%"
+        },
+        "9": {
+            "a": "2700",
+            "b": "2900",
+            "c": "3000",
+            "d": "3100"
+        }
+    },
+    {   
+        "0": "45 5/11%",
+        "1": "42, 33",
+        "2": "700 apples",
+        "3": "20",
+        "4": "None of these",
+        "5": "4% of a",
+        "6": "100",
+        "7": "4 : 3",
+        "8": "64%",
+        "9": "2700"
+    }
+]
